@@ -1,0 +1,12 @@
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/handlers/LogsHandlers.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/service/CursoService.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/dto/LogsErrorDto.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/config/TimestampConfig.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/dto/CursoDto.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/repository/CursoRepository.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/model/CursoModel.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/controller/CursoController.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/exceptions/InternalErrorException.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/exceptions/BusinessException.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/CursoApplication.java
+/home/msrn/alura/confiabilidade/grafana-loki/logs/src/main/java/br/com/alura/logs/exceptions/NotFoundException.java
